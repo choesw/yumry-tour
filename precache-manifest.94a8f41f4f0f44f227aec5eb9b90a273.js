@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7db0fdb62438c31cd831c2c3cbc4b09",
+    "revision": "b77ca44f3d300c6b44e7c6579142a570",
     "url": "/yumry-tour/index.html"
   },
   {
-    "revision": "32745daa2b0dc3be9470",
+    "revision": "9a2f830b211bb61d78d8",
     "url": "/yumry-tour/static/css/main.34e08c52.chunk.css"
   },
   {
-    "revision": "ce5a75c12a8483116e56",
-    "url": "/yumry-tour/static/js/2.91ad9556.chunk.js"
+    "revision": "e391fc348a91baf176db",
+    "url": "/yumry-tour/static/js/2.1c38e494.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/yumry-tour/static/js/2.91ad9556.chunk.js.LICENSE.txt"
+    "url": "/yumry-tour/static/js/2.1c38e494.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32745daa2b0dc3be9470",
-    "url": "/yumry-tour/static/js/main.b6f89e43.chunk.js"
+    "revision": "9a2f830b211bb61d78d8",
+    "url": "/yumry-tour/static/js/main.e7f69435.chunk.js"
   },
   {
     "revision": "9563958b197838cabdd0",
