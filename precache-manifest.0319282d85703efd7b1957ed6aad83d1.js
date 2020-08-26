@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b77ca44f3d300c6b44e7c6579142a570",
+    "revision": "fbafe07fec80f917a23eb9e08a407b1e",
     "url": "/yumry-tour/index.html"
   },
   {
-    "revision": "9a2f830b211bb61d78d8",
-    "url": "/yumry-tour/static/css/main.34e08c52.chunk.css"
+    "revision": "ea2bd580f857ea74427c",
+    "url": "/yumry-tour/static/css/main.810f7fbf.chunk.css"
   },
   {
     "revision": "e391fc348a91baf176db",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yumry-tour/static/js/2.1c38e494.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a2f830b211bb61d78d8",
-    "url": "/yumry-tour/static/js/main.e7f69435.chunk.js"
+    "revision": "ea2bd580f857ea74427c",
+    "url": "/yumry-tour/static/js/main.00072934.chunk.js"
   },
   {
     "revision": "9563958b197838cabdd0",
