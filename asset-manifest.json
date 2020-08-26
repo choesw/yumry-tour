@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yumry-tour/static/css/main.810f7fbf.chunk.css",
-    "main.js": "/yumry-tour/static/js/main.00072934.chunk.js",
-    "main.js.map": "/yumry-tour/static/js/main.00072934.chunk.js.map",
+    "main.js": "/yumry-tour/static/js/main.959f7a36.chunk.js",
+    "main.js.map": "/yumry-tour/static/js/main.959f7a36.chunk.js.map",
     "runtime-main.js": "/yumry-tour/static/js/runtime-main.8962fab5.js",
     "runtime-main.js.map": "/yumry-tour/static/js/runtime-main.8962fab5.js.map",
     "static/js/2.1c38e494.chunk.js": "/yumry-tour/static/js/2.1c38e494.chunk.js",
     "static/js/2.1c38e494.chunk.js.map": "/yumry-tour/static/js/2.1c38e494.chunk.js.map",
     "index.html": "/yumry-tour/index.html",
-    "precache-manifest.0319282d85703efd7b1957ed6aad83d1.js": "/yumry-tour/precache-manifest.0319282d85703efd7b1957ed6aad83d1.js",
+    "precache-manifest.2fbcf442d30d83e9c84d8b3a704491ae.js": "/yumry-tour/precache-manifest.2fbcf442d30d83e9c84d8b3a704491ae.js",
     "service-worker.js": "/yumry-tour/service-worker.js",
     "static/css/main.810f7fbf.chunk.css.map": "/yumry-tour/static/css/main.810f7fbf.chunk.css.map",
     "static/js/2.1c38e494.chunk.js.LICENSE.txt": "/yumry-tour/static/js/2.1c38e494.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8962fab5.js",
     "static/js/2.1c38e494.chunk.js",
     "static/css/main.810f7fbf.chunk.css",
-    "static/js/main.00072934.chunk.js"
+    "static/js/main.959f7a36.chunk.js"
   ]
 }
