@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yumry-tour/precache-manifest.b9e732f917c32e28ae3498a0a9447fe6.js"
+  "/yumry-tour/precache-manifest.147644690f642056d785caa017d23526.js"
 );
 
 self.addEventListener('message', (event) => {
