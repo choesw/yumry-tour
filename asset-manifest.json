@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yumry-tour/static/css/main.90566ae5.chunk.css",
-    "main.js": "/yumry-tour/static/js/main.d0e45613.chunk.js",
-    "main.js.map": "/yumry-tour/static/js/main.d0e45613.chunk.js.map",
+    "main.css": "/yumry-tour/static/css/main.aaa35f79.chunk.css",
+    "main.js": "/yumry-tour/static/js/main.5897b487.chunk.js",
+    "main.js.map": "/yumry-tour/static/js/main.5897b487.chunk.js.map",
     "runtime-main.js": "/yumry-tour/static/js/runtime-main.8962fab5.js",
     "runtime-main.js.map": "/yumry-tour/static/js/runtime-main.8962fab5.js.map",
-    "static/js/2.3b689d81.chunk.js": "/yumry-tour/static/js/2.3b689d81.chunk.js",
-    "static/js/2.3b689d81.chunk.js.map": "/yumry-tour/static/js/2.3b689d81.chunk.js.map",
+    "static/js/2.e208328e.chunk.js": "/yumry-tour/static/js/2.e208328e.chunk.js",
+    "static/js/2.e208328e.chunk.js.map": "/yumry-tour/static/js/2.e208328e.chunk.js.map",
     "index.html": "/yumry-tour/index.html",
-    "precache-manifest.7d26d0f74e96ac2231ef7dfa1440cf08.js": "/yumry-tour/precache-manifest.7d26d0f74e96ac2231ef7dfa1440cf08.js",
+    "precache-manifest.663207b8094d1deff67cab64b73db497.js": "/yumry-tour/precache-manifest.663207b8094d1deff67cab64b73db497.js",
     "service-worker.js": "/yumry-tour/service-worker.js",
-    "static/css/main.90566ae5.chunk.css.map": "/yumry-tour/static/css/main.90566ae5.chunk.css.map",
-    "static/js/2.3b689d81.chunk.js.LICENSE.txt": "/yumry-tour/static/js/2.3b689d81.chunk.js.LICENSE.txt"
+    "static/css/main.aaa35f79.chunk.css.map": "/yumry-tour/static/css/main.aaa35f79.chunk.css.map",
+    "static/js/2.e208328e.chunk.js.LICENSE.txt": "/yumry-tour/static/js/2.e208328e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8962fab5.js",
-    "static/js/2.3b689d81.chunk.js",
-    "static/css/main.90566ae5.chunk.css",
-    "static/js/main.d0e45613.chunk.js"
+    "static/js/2.e208328e.chunk.js",
+    "static/css/main.aaa35f79.chunk.css",
+    "static/js/main.5897b487.chunk.js"
   ]
 }
